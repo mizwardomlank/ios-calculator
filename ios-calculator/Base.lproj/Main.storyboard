@@ -20,8 +20,8 @@
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ios_calculator" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="6n7-H3-RjI"/>
-                        <viewControllerLayoutGuide type="bottom" id="Qjb-4D-PHv"/>
+                        <viewControllerLayoutGuide type="top" id="E47-tY-n95"/>
+                        <viewControllerLayoutGuide type="bottom" id="sBU-AC-Cu7"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
@@ -269,7 +269,7 @@
                             <constraint firstItem="ATX-8L-WQX" firstAttribute="top" secondItem="B8C-Fv-Yws" secondAttribute="top" id="TP2-3g-c5I"/>
                             <constraint firstItem="WvA-DT-7Cg" firstAttribute="baseline" secondItem="esL-mC-cg5" secondAttribute="firstBaseline" id="Taw-yX-PIe"/>
                             <constraint firstItem="fSm-fh-Owp" firstAttribute="top" secondItem="mU2-fp-4V8" secondAttribute="bottom" constant="49" id="UYb-Ds-5ay"/>
-                            <constraint firstItem="mU2-fp-4V8" firstAttribute="top" secondItem="6n7-H3-RjI" secondAttribute="bottom" constant="14" id="WZX-HP-BL6"/>
+                            <constraint firstItem="mU2-fp-4V8" firstAttribute="top" secondItem="E47-tY-n95" secondAttribute="bottom" constant="14" id="WZX-HP-BL6"/>
                             <constraint firstItem="fSm-fh-Owp" firstAttribute="top" secondItem="atU-hv-NVp" secondAttribute="top" id="WoF-iK-iP0"/>
                             <constraint firstItem="mU2-fp-4V8" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="X0b-e7-jp8"/>
                             <constraint firstItem="esL-mC-cg5" firstAttribute="trailing" secondItem="mxX-J4-gj2" secondAttribute="trailing" id="X0m-A3-YKO"/>
